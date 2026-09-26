@@ -6,7 +6,6 @@ Trabajo en front-end, back-end e infraestructura, y me gusta construir sistemas 
 ### 🔧 En qué ando
 - **Zuma**: ERP modular para pymes colombianas
 - **IA aplicada**: motor RAG propio con LangGraph
-- Aprendiendo **Go** a fondo
 
 ### 🛠️ Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
